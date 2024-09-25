@@ -1,0 +1,43 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(236, 253, 0);
+    font-family: sans-serif;
+    margin: 0;
+}
+.login-container{
+    background-color: transparent;
+    padding: 40px;
+    height: 45%;
+    box-shadow: 0 0 10px rgb(0, 0, 0);
+    width: 30%;
+    font-family: sans-serif;
+    text-align: center;
+    border-radius: 100px;
+}
+.input-grup{
+    width: 90%;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius:15px;
+}
+.button1{
+    width: 96%;
+    padding: 10px;
+    margin-top: 40px;
+    font-family: sans-serif;
+}
+/* .pot{
+     box-shadow: 0 0 10px blue;
+    border-radius: 10px;
+    background-color:  rgb(206, 162, 109);
+    text-decoration: none;
+} */
+
+input{
+    background-color: rgb(253, 253, 253);
+    width: auto;
+    
+}

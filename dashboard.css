@@ -1,0 +1,16 @@
+body{
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(0, 26, 255);
+    font-family: sans-serif;
+}
+
+/* .back{
+    justify-content: center;
+    width: 30%;
+    padding: 10px;
+    margin-top: 40px;
+    background-color: rgb(206, 162, 109) ;
+    font-family: sans-serif;
+} */

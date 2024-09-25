@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+
+header{
+   
+    background-color: rgb(0, 132, 255) ;
+    padding-top: 5px;
+    text-align: center;
+    justify-content: center;
+}
+.menu,ul{
+   display: flex;
+   margin: 10px;
+   justify-content: center;
+}
+.menu,li,a{
+    color: rgb(255, 0, 0);
+    text-decoration: none;
+    padding: 10px;
+}
